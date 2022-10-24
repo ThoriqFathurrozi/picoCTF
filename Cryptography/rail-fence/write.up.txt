@@ -1,0 +1,5 @@
+Author: Will Hong
+Description
+A type of transposition cipher is the rail fence cipher, which is described here. Here is one such cipher encrypted using the rail fence with 4 rails. Can you decrypt it? Download the message here. Put the decoded message in the picoCTF flag format, picoCTF{decoded_message}.
+
+first i search what is rail fence, and i found the decrypt for rail fence format. i try to set the depth 4 and i get the flag

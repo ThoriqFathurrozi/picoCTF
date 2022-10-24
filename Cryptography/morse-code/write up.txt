@@ -1,0 +1,5 @@
+Author: Will Hong
+Description:
+Morse code is well known. Can you decrypt this? Download the file here. Wrap your answer with picoCTF{}, put underscores in place of pauses, and use all lowercase.
+
+because this is a morse code so i try to decode with morse decoder and upload the audio

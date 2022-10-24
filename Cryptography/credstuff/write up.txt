@@ -1,0 +1,5 @@
+Author: Will Hong / LT 'syreal' Jones
+Description:
+We found a leak of a blackmarket website's login credentials. Can you find the password of the user cultiris and successfully decrypt it? Download the leak here. The first user in usernames.txt corresponds to the first password in passwords.txt. The second user corresponds to the second password, and so on.
+
+in this case first i try to search the username with function find cultiris and i see on line 378 so on password.txt i go to line 378 and i find some encrypt flag (cvpbPGS{P7e1S_54I35_71Z3}) with caesar chiper because the shift from p to c is 13 so i try decode with key 13 
